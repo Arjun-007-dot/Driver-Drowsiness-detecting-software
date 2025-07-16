@@ -16,9 +16,9 @@ A real-time system that detects driver drowsiness using computer vision and mach
 - Imutils
 
 ## Installation
-Clone the repository:
-   git clone https://github.com/yourusername/driver-drowsiness-detection.git
-   cd driver-drowsiness-detection
+- Clone the repository:
+   -git clone https://github.com/yourusername/driver-drowsiness-detection.git
+   -cd driver-drowsiness-detection
    
 Install dependencies:
 pip install -r requirements.txt
